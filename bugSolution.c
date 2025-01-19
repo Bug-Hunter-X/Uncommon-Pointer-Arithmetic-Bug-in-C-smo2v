@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x; // Ensure proper type and initialization *ptr = 20; printf("%d\n", x); return 0; }
