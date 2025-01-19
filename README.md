@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to pointer arithmetic in C. The example showcases how seemingly straightforward code can lead to unexpected behavior or errors.  The solution provides a corrected version and explanation.
